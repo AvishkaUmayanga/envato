@@ -8,7 +8,6 @@ import OurServices from "@/components/our services/OurServices";
 import OurTeam from "@/components/our team/OurTeam";
 import OurWorks from "@/components/our works/OurWorks";
 import OurStats from "@/components/out stats/OurStats";
-import WorksCarousel from "@/components/works carousel/WorksCarousel";
 
 const HomePage = () => {
   return (
