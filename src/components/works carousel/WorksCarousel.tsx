@@ -14,11 +14,6 @@ import {
 import {
     Dialog,
     DialogContent,
-    DialogDescription,
-    DialogFooter,
-    DialogHeader,
-    DialogTitle,
-    DialogTrigger,
 } from "@/components/ui/dialog"
 
 import Image from "next/image"
@@ -70,7 +65,7 @@ const WorksCarousel = (props: CarouselProps) => {
     })
   }, [api])
 
-
+ console.log(current , count)
 
   return (
     <Dialog open={props.isOpen} onOpenChange={props.oncloseFunc}>

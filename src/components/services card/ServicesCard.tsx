@@ -1,6 +1,5 @@
 import React from 'react'
 import Image, { StaticImageData } from 'next/image'
-import bedroomImg from '@/../public/images/bedroom.jpg'
 
 interface CardProps {
     title: string;
