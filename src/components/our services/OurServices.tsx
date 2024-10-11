@@ -1,6 +1,5 @@
 import React from 'react'
 import YellowLine from '../yellow line/YellowLine'
-import Image from 'next/image'
 import icon1 from '@/../public/images/icon1.png'
 import icon2 from '@/../public/images/icon2.png'
 import icon3 from '@/../public/images/icon3.png'
